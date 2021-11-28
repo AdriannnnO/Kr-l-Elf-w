@@ -12,7 +12,7 @@ h1{
     height: 555px;
     float: right;
     width: 44%;
-    background-color:rgb(58, 10, 10);
+    background-image: url(ok.jpg);
 }
 #obraz{
     float: left;
